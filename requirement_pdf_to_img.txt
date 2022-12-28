@@ -1,0 +1,16 @@
+PyMuPDF==1.18.9
+typeguard==2.7.1
+typer==0.7.0
+typing-extensions==4.1.1
+tzlocal==1.5.1
+uritemplate==3.0.1
+urllib3==1.24.3
+opencv-contrib-python==4.6.0.66
+opencv-python==4.6.0.66
+opencv-python-headless==4.6.0.66
+openpyxl==3.0.10
+opt-einsum==3.3.0
+osqp==0.6.2.post0
+pathlib==1.0.1
+pathy==0.8.1
+patsy==0.5.3
